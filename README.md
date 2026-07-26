@@ -1,27 +1,75 @@
-Hi there, I'm Narya👋
+# Hi, I'm Narya 👋
 
-B.Sc. in Chemistry | Aspiring Computational Scientist | Python Developer
+### Chemistry Graduate | Scientific Programmer | Computational Chemistry Enthusiast
 
-I'm passionate about combining chemistry, programming, and data-driven modelling to solve scientific problems. My interests lie at the intersection of computational chemistry, physical chemistry modelling, artificial intelligence, and scientific computing.
+I'm a Chemistry graduate passionate about using programming and data-driven modelling to solve scientific problems. My work focuses on the intersection of computational chemistry, artificial intelligence, scientific computing, and drug discovery.
 
-🚀 About Me
-🎓 B.Sc. in Chemistry
-💻 Learning Python through Harvard's CS50x
-🧪 Experience developing adsorption models in MATLAB
-📊 Interested in AI, data analysis, and scientific modelling
-🌱 Currently expanding my skills in software development and machine learning
-🛠 Technologies
-Languages: Python, MATLAB
-Tools: Git, Linux
-Areas of Interest: Computational Chemistry, Physical Chemistry Modelling, Data Analysis, Scientific Computing
-📌 Current Focus
-Completing Harvard CS50x
-Building Python projects
-Improving software engineering skills
-Exploring AI applications in chemistry and scientific research
+Currently, I'm strengthening my software engineering skills through Harvard's CS50x while building projects that combine chemistry, Python, and data science.
 
-📫 Connect with Me
+---
 
-Email: Nrya.razman@gmail.com
+## 🔬 Research Interests
 
-LinkedIn: https://linkedin.com/in/narya-razman
+- Computational Chemistry
+- Computational Pharmacology
+- Drug Discovery
+- Scientific Computing
+- Artificial Intelligence for Science
+- Molecular Modelling
+- Data Analysis
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+- Python
+- MATLAB
+
+**Tools**
+
+- Git
+- Linux
+
+**Currently Learning**
+
+- Data Structures & Algorithms
+- Machine Learning
+- Scientific Python
+- Software Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### 🧪 Adsorption Modelling
+
+A MATLAB implementation of adsorption modelling using numerical optimisation for surface adsorption studies.
+
+### 📊 Python Data Analysis
+
+Scientific data analysis and visualisation using NumPy, Pandas and Matplotlib.
+
+### 🧬 Computational Chemistry
+
+Python tools for chemistry calculations and molecular modelling.
+
+---
+
+## 🎯 2026 Goals
+
+- Complete Harvard CS50x
+- Rebuild my MATLAB research project in Python
+- Publish 10+ high-quality scientific programming projects
+- Learn Machine Learning for Chemistry
+- Contribute to open-source scientific software
+
+---
+
+## 📫 Connect
+
+📧 Email: <Nrya.razman@gmail.com>
+
+💼 LinkedIn:
+https://linkedin.com/in/narya-razman

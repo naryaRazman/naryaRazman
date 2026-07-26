@@ -19,8 +19,11 @@ Completing Harvard CS50x
 Building Python projects
 Improving software engineering skills
 Exploring AI applications in chemistry and scientific research
+
 📫 Connect with Me
+
 Email: Nrya.razman@gmail.com
+
 LinkedIn: https://linkedin.com/in/narya-razman
 
 <!--
